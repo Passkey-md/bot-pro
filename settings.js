@@ -11,24 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.ytname = "YT: phantom" //ur yt chanel name
+global.socialm = "GitHub: phantom" //ur github or insta name
+global.location = "Nigeria, African, Lagos" //ur location
 
 //new
 global.botname = 'Cheems Bot MD V12' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
-global.themeemoji = '🪀'
+global.ownernumber = '2348108395270' //ur owner number
+global.ownhttps://youtube.com/@PHANTOMGRAPHICS-js224?si=IdQnBw7HZTBc877w"
+global.wagc = "https://chat.whatsapp.com/CseQQpjLVrW9DUMhdNN1Sa"
+global.themeemoji = '🎯'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD12' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.author = "🦄Phantom\n\n+2348108395270"
+global.creator = "2348108395270@s.whatsapp.net"
+global.xprefix = '⚡'
+global.premium = ["2348108395270"] // Premium User
 global.hituet = 0
 
 //bot sett
